@@ -11,7 +11,7 @@ namespace TestHello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word!");
-            Console.ReadLine(); //等待用户按下 Enter 键
+            Console.ReadLine(); //等待用户按下 Enter 键 
         }
     }
 }
